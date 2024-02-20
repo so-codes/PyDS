@@ -8,6 +8,7 @@ The goal of this project is to provide you the codes to make DS with PY easier f
 ```
 # import the following to run the codes successfully 
 import numpy as np
+import pandas as pd
 ```
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request.
